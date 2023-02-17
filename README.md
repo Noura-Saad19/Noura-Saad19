@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noura Saad , I'm Student at Faculty of Computers and Artificial Intelligence in Information Systems Department
 - 👀 I’m interested in Web Development and Data Analytics
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently Working as Software Engineer at NajahNow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by using email : nourasa3d19@gmail.com
 
