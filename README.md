@@ -99,7 +99,6 @@ class NouraSaad extends SoftwareEngineer
             ],
             'currentlyLearning' => [
                 'Advanced Laravel Patterns',
-                'Microservices Architecture',
                 'Modern Frontend Frameworks',
             ]
         ];
