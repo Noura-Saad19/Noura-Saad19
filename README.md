@@ -75,7 +75,7 @@ I’m passionate about **solving real-world problems** through elegant, technica
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Noura-Saad19 />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Noura-Saad19" />
 </div>
 
 ---
