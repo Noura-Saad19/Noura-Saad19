@@ -73,8 +73,8 @@ I’m passionate about **solving real-world problems** through elegant, technica
 
 ## 📈 Profile Views
 
-<div id="badges" align="center">
-  [![Noura-Saad19](https://komarev.com/ghpvc/?username=Noura-Saad19)](https://komarev.com/ghpvc/?username=Noura-Saad19)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Noura-Saad19" />
 </div>
 
 ---
